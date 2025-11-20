@@ -1,0 +1,38 @@
+.fih {
+  font-size: 96px;
+}
+
+.h1 {
+  font-size: 2.25em;
+  color: var(--clr-fih-a30);
+}
+
+.h2 {
+  font-size: 1.75em;
+}
+
+.h3 {
+  font-size: 1.25em;
+}
+
+:root {
+--clr-fih-a5: oklab(100% 0 0);
+--clr-fih-a10: oklab(100% 0 0);
+--clr-fih-a15: oklab(90% 0.1 0.1);
+--clr-fih-a20: oklab(90% 0.1 0.1);
+--clr-fih-a25: oklab(80% 0.2 0.2);
+--clr-fih-a30: oklab(80% 0.2 0.2);
+--clr-fih-a35: oklab(70% 0.2 0.3);
+--clr-fih-a40: oklab(70% 0.3 0.3);
+--clr-fih-a45: oklab(60% 0.3 0.3);
+--clr-fih-a50: oklab(60% 0.3 0.3);
+--clr-fih-a55: oklab(50% 0.3 0.3);
+--clr-fih-a60: oklab(50% 0.3 0.3);
+--clr-fih-a65: oklab(40% 0.2 0.2);
+--clr-fih-a70: oklab(40% 0.2 0.2);
+--clr-fih-a75: oklab(30% 0.1 0.2);
+--clr-fih-a80: oklab(30% 0.1 0.1);
+--clr-fih-a85: oklab(20% 0.1 0.1);
+--clr-fih-a90: oklab(20% 0 0.1);
+--clr-fih-a95: oklab(0% 0 0);
+}
