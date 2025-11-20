@@ -38,26 +38,34 @@
     --magenta-400: #ce5d97;
 }
 
+.fih {
+    font-size: 5em;
+    color: var(--magenta-400);
+}
+
+h1 {
+    font-size: 2.25em;
+    color: var(--purple-400);
+}
+
+h2 {
+    font-size: 1.75em;
+    color: var(--blue-400);
+}
+
+h3 {
+    font-size: 1.25em;
+    color: var(--base-500);
+}
+
 body {
     background-color: var(--black);
     color: var(--base-200);
 }
 
-.fih {
-    font-size: 96px;
-}
-
-.h1 {
-    font-size: 2.25em;
-    color: var(--base-200);
-}
-
-.h2 {
-    font-size: 1.75em;
-    color: var(--base-500);
-}
-
-.h3 {
-    font-size: 1.25em;
-    color: var(--orange-600);
+@media (prefers-color-scheme: light) {
+    body {
+        background-color: var(--paper);
+        color: var(--black);
+    }
 }
