@@ -1,38 +1,63 @@
+:root {
+    /*
+    reference: https://stephango.com/flexoki
+    */
+
+    --paper: #fffcf0;
+    --base-50: #f2f0e5;
+    --base-100: #e6e4d9;
+    --base-150: #dad8ce;
+    --base-200: #cecdc3;
+    --base-300: #b7b5ac;
+    --base-400: #9f9d96;
+    --base-500: #878580;
+    --base-600: #6f6e69;
+    --base-700: #575653;
+    --base-800: #403e3c;
+    --base-850: #343331;
+    --base-900: #282726;
+    --base-950: #1c1b1a;
+    --black: #100f0f;
+
+    --red-600: #af3029;
+    --orange-600: #bc5215;
+    --yellow-600: #ad8301;
+    --green-600: #66800b;
+    --cyan-600: #24837b;
+    --blue-600: #205ea6;
+    --purple-600: #5e409d;
+    --magenta-600: #a02f6f;
+
+    --red-400: #d14d41;
+    --orange-400: #da702c;
+    --yellow-400: #d0a215;
+    --green-400: #879a39;
+    --cyan-400: #3aa99f;
+    --blue-400: #4385be;
+    --purple-400: #8b7ec8;
+    --magenta-400: #ce5d97;
+}
+
+body {
+    background-color: var(--black);
+    color: var(--base-200);
+}
+
 .fih {
-  font-size: 96px;
+    font-size: 96px;
 }
 
 .h1 {
-  font-size: 2.25em;
-  color: var(--clr-fih-a30);
+    font-size: 2.25em;
+    color: var(--base-200);
 }
 
 .h2 {
-  font-size: 1.75em;
+    font-size: 1.75em;
+    color: var(--base-500);
 }
 
 .h3 {
-  font-size: 1.25em;
-}
-
-:root {
---clr-fih-a5: oklab(100% 0 0);
---clr-fih-a10: oklab(100% 0 0);
---clr-fih-a15: oklab(90% 0.1 0.1);
---clr-fih-a20: oklab(90% 0.1 0.1);
---clr-fih-a25: oklab(80% 0.2 0.2);
---clr-fih-a30: oklab(80% 0.2 0.2);
---clr-fih-a35: oklab(70% 0.2 0.3);
---clr-fih-a40: oklab(70% 0.3 0.3);
---clr-fih-a45: oklab(60% 0.3 0.3);
---clr-fih-a50: oklab(60% 0.3 0.3);
---clr-fih-a55: oklab(50% 0.3 0.3);
---clr-fih-a60: oklab(50% 0.3 0.3);
---clr-fih-a65: oklab(40% 0.2 0.2);
---clr-fih-a70: oklab(40% 0.2 0.2);
---clr-fih-a75: oklab(30% 0.1 0.2);
---clr-fih-a80: oklab(30% 0.1 0.1);
---clr-fih-a85: oklab(20% 0.1 0.1);
---clr-fih-a90: oklab(20% 0 0.1);
---clr-fih-a95: oklab(0% 0 0);
+    font-size: 1.25em;
+    color: var(--orange-600);
 }
