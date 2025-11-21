@@ -61,31 +61,51 @@ h3 {
 li {
     background-color: var(--black);
     color: var(--base-300);
+    padding-bottom: 0.1em;
+    padding-top: 0.1em;
+}
+
+a {
+    color: var(--blue-400);
+    text-decoration: underline;
+}
+a:visited {
+    color: var(--purple-400);
+}
+
+details {
+    margin-bottom: 1em;
+    padding: 0.4em;
+    border: solid;
+    border-width: 0.1em;
+}
+
+summary {
+    font-size: 1.75em;
+    font-weight: bold;
+    color: var(--magenta-400);
+    list-style: none;
+    display: flex;
+    align-items: center;
+
+    &::after {
+        content: ">";
+        color: var(--base-800);
+        font-size: 0.57em;
+        padding: 0 5px;
+        margin-inline-start: 4px;
+        transition: text-shadow 0.1s ease-in-out;
+    }
+
+    &:hover::after {
+        text-shadow: 0 0 10px var(--base-600);
+    }
+
+    [open] &::after {
+        content: "|";
+        font-family: monospace;
+    }
 }
 
 @media (prefers-color-scheme: light) {
-    body {
-        background-color: var(--paper);
-        color: var(--base-700);
-    }
-
-    h1 {
-        font-size: 2.25em;
-        color: var(--magenta-600);
-    }
-
-    h2 {
-        font-size: 1.75em;
-        color: var(--purple-600);
-    }
-
-    h3 {
-        font-size: 1.25em;
-        color: var(--blue-600);
-    }
-
-    li {
-        background-color: var(--paper);
-        color: var(--base-700);
-    }
 }
