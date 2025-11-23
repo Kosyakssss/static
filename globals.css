@@ -19,15 +19,6 @@
     --base-950: #1c1b1a;
     --black: #100f0f;
 
-    --red-600: #af3029;
-    --orange-600: #bc5215;
-    --yellow-600: #ad8301;
-    --green-600: #66800b;
-    --cyan-600: #24837b;
-    --blue-600: #205ea6;
-    --purple-600: #5e409d;
-    --magenta-600: #a02f6f;
-
     --red-400: #d14d41;
     --orange-400: #da702c;
     --yellow-400: #d0a215;
@@ -36,41 +27,61 @@
     --blue-400: #4385be;
     --purple-400: #8b7ec8;
     --magenta-400: #ce5d97;
+
+    --red-600: #af3029;
+    --orange-600: #bc5215;
+    --yellow-600: #ad8301;
+    --green-600: #66800b;
+    --cyan-600: #24837b;
+    --blue-600: #205ea6;
+    --purple-600: #5e409d;
+    --magenta-600: #a02f6f;
 }
 
 body {
     background-color: var(--black);
-    color: var(--base-300);
+    color: var(--base-200);
 }
 
 h1 {
     font-size: 2.25em;
-    color: var(--magenta-400);
+    color: var(--base-200);
 }
 
 h2 {
     font-size: 1.75em;
-    color: var(--purple-400);
+    color: var(--base-200);
 }
 
 h3 {
     font-size: 1.25em;
-    color: var(--blue-400);
+    color: var(--base-200);
 }
 
 li {
     background-color: var(--black);
-    color: var(--base-300);
+    color: var(--paper);
     padding-bottom: 0.1em;
     padding-top: 0.1em;
 }
 
+.empty-text {
+    color: var(--base-500);
+}
+
 a {
-    color: var(--blue-400);
+    color: var(--cyan-400);
     text-decoration: underline;
 }
 a:visited {
     color: var(--purple-400);
+}
+.navb {
+    color: var(--base-500);
+    text-decoration: none;
+}
+.navb:visited {
+    color: var(--base-500);
 }
 
 details {
@@ -78,19 +89,20 @@ details {
     padding: 0.4em;
     border: solid;
     border-width: 0.1em;
+    border-color: var(--base-900);
 }
 
 summary {
     font-size: 1.75em;
     font-weight: bold;
-    color: var(--magenta-400);
+    color: var(--base-200);
     list-style: none;
     display: flex;
     align-items: center;
 
     &::after {
         content: ">";
-        color: var(--base-800);
+        color: var(--base-850);
         font-size: 0.57em;
         padding: 0 5px;
         margin-inline-start: 4px;
@@ -99,7 +111,24 @@ summary {
     [open] &::after {
         content: "|";
         font-family: monospace;
+        color: var(--base-800);
     }
+}
+
+header {
+    background-color: var(--base-950);
+    padding: 0.4em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.navb:first-child {
+    position: absolute;
+    left: 1em;
+}
+.navb:last-child {
+    position: absolute;
+    right: 1em;
 }
 
 @media (prefers-color-scheme: light) {
