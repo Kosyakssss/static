@@ -94,11 +94,6 @@ summary {
         font-size: 0.57em;
         padding: 0 5px;
         margin-inline-start: 4px;
-        transition: text-shadow 0.1s ease-in-out;
-    }
-
-    &:hover::after {
-        text-shadow: 0 0 10px var(--base-600);
     }
 
     [open] &::after {
