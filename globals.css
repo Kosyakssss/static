@@ -41,6 +41,26 @@
 body {
     background-color: var(--black);
     color: var(--base-200);
+    max-width: 650px;
+    margin: 0 auto;
+    padding: 0 1.5em;
+}
+
+img {
+    display: block;
+    height: auto;
+    width: calc(100% + 3em);
+    max-width: calc(100% + 3em);
+    margin-inline: -1.5em;
+    transition: all 0.3s ease;
+}
+@media (min-width: 650px) {
+    img {
+        width: 100%;
+        max-width: 100%;
+        margin-inline: 0;
+        border-radius: 12px;
+    }
 }
 
 h1 {
@@ -71,15 +91,18 @@ li {
 
 a {
     color: var(--cyan-400);
-    text-decoration: underline;
+    text-decoration: none;
 }
+
 a:visited {
     color: var(--purple-400);
 }
+
 .navb {
     color: var(--base-500);
     text-decoration: none;
 }
+
 .navb:visited {
     color: var(--base-500);
 }
@@ -104,6 +127,7 @@ summary {
         content: ">";
         color: var(--base-850);
         font-size: 0.57em;
+        font-family: monospace;
         padding: 0 5px;
         margin-inline-start: 4px;
     }
@@ -115,21 +139,99 @@ summary {
     }
 }
 
+
 header {
     background-color: var(--base-950);
-    padding: 0.4em;
-    display: flex;
-    justify-content: center;
+    padding: 0.4em 1.5em;
+    
+    display: grid;
+    grid-template-columns: 1fr auto 1fr;
     align-items: center;
+    
+    box-sizing: border-box;
+    
+    transition: all 0.3s ease;
+
+    width: calc(100% + 3em);
+    margin-inline: -1.5em;
+    margin-top: 0;
+    border-radius: 0;
 }
-.navb:first-child {
-    position: absolute;
-    left: 1em;
-}
-.navb:last-child {
-    position: absolute;
-    right: 1em;
+
+header > :first-child { justify-self: start; }
+header > :nth-child(2) { justify-self: center; }
+header > :last-child { justify-self: end; }
+
+@media (min-width: 650px) {
+    header {
+        width: 100%;
+        margin-inline: 0;
+        margin-top: 1em;
+        padding-inline: 0.8em;
+        border-radius: 16px;
+    }
 }
 
 @media (prefers-color-scheme: light) {
+    body {
+        background-color: var(--paper);
+        color: var(--black);
+    }
+
+    h1 {
+        color: var(--black);
+    }
+
+    h2 {
+        color: var(--black);
+    }
+
+    h3 {
+        color: var(--black);
+    }
+
+    li {
+        background-color: var(--paper);
+        color: var(--black);
+    }
+
+    .empty-text {
+        color: var(--base-600);
+    }
+
+    a {
+        color: var(--cyan-600);
+    }
+
+    a:visited {
+        color: var(--purple-600);
+    }
+
+    .navb {
+        color: var(--base-600);
+    }
+
+    .navb:visited {
+        color: var(--base-600);
+    }
+
+    details {
+        border-color: var(--base-100);
+    }
+
+    summary {
+        color: var(--black);
+
+        &::after {
+            color: var(--base-150);
+        }
+
+        [open] &::after {
+            color: var(--base-200);
+        }
+    }
+
+    header {
+        background-color: var(--base-50);
+    }
 }

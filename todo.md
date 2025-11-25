@@ -1,7 +1,4 @@
 # finish the basics
-- work on text width
-    - max width
-    - min padding
 - transfer all articles there
 - host
 
