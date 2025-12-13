@@ -3,6 +3,8 @@
     reference: https://stephango.com/flexoki
     */
 
+  color-scheme: light dark;
+
   --paper: #fffcf0;
   --base-50: #f2f0e5;
   --base-100: #e6e4d9;
@@ -43,8 +45,8 @@
 }
 
 body {
-  background-color: var(--black);
-  color: var(--base-200);
+  background-color: light-dark(var(--paper), var(--black));
+  color: light-dark(var(--black), var(--base-200));
   max-width: 860px;
   margin: 0 auto;
   padding: 0 1.5em;
@@ -73,46 +75,46 @@ img {
 
 h1 {
   font-size: 2.25em;
-  color: var(--base-200);
+  color: light-dark(var(--black), var(--base-200));
 }
 
 h2 {
   font-size: 1.75em;
-  color: var(--base-200);
+  color: light-dark(var(--black), var(--base-200));
 }
 
 h3 {
   font-size: 1.25em;
-  color: var(--base-200);
+  color: light-dark(var(--black), var(--base-200));
 }
 
 li {
-  background-color: var(--black);
-  color: var(--paper);
+  background-color: light-dark(var(--paper), var(--black));
+  color: light-dark(var(--black), var(--paper));
   padding-bottom: 0.1em;
   padding-top: 0.1em;
 }
 
 .empty-text {
-  color: var(--base-500);
+  color: light-dark(var(--base-600), var(--base-500));
 }
 
 a {
-  color: var(--cyan-400);
+  color: light-dark(var(--cyan-600), var(--cyan-400));
   text-decoration: none;
 }
 
 a:visited {
-  color: var(--purple-400);
+  color: light-dark(var(--purple-600), var(--purple-400));
 }
 
 .navb {
-  color: var(--base-500);
+  color: light-dark(var(--base-600), var(--base-500));
   text-decoration: none;
 }
 
 .navb:visited {
-  color: var(--base-500);
+  color: light-dark(var(--base-600), var(--base-500));
 }
 
 details {
@@ -120,20 +122,20 @@ details {
   padding: 0.4em;
   border: solid;
   border-width: 0.1em;
-  border-color: var(--base-900);
+  border-color: light-dark(var(--base-100), var(--base-900));
 }
 
 summary {
   font-size: 1.75em;
   font-weight: bold;
-  color: var(--base-200);
+  color: light-dark(var(--black), var(--base-200));
   list-style: none;
   display: flex;
   align-items: center;
 
   &::after {
     content: ">";
-    color: var(--base-850);
+    color: light-dark(var(--base-150), var(--base-850));
     font-size: 0.57em;
     font-family: monospace;
     padding: 0 5px;
@@ -143,13 +145,14 @@ summary {
   [open] &::after {
     content: "|";
     font-family: monospace;
-    color: var(--base-800);
+    color: light-dark(var(--base-200), var(--base-800));
   }
 }
 
 
+
 header {
-  background-color: var(--base-950);
+  background-color: light-dark(var(--base-50), var(--base-950));
   padding: 0.4em 1.5em;
 
   display: grid;
@@ -185,73 +188,5 @@ header> :last-child {
     margin-top: 1em;
     padding-inline: 0.8em;
     border-radius: 16px;
-  }
-}
-
-
-
-/* LIGHT THEME, GOOGLE, ITS POSSIBLE WITHOUT RELOADING THE WEBPAGE */
-
-@media (prefers-color-scheme: light) {
-  body {
-    background-color: var(--paper);
-    color: var(--black);
-  }
-
-  h1 {
-    color: var(--black);
-  }
-
-  h2 {
-    color: var(--black);
-  }
-
-  h3 {
-    color: var(--black);
-  }
-
-  li {
-    background-color: var(--paper);
-    color: var(--black);
-  }
-
-  .empty-text {
-    color: var(--base-600);
-  }
-
-  a {
-    color: var(--cyan-600);
-  }
-
-  a:visited {
-    color: var(--purple-600);
-  }
-
-  .navb {
-    color: var(--base-600);
-  }
-
-  .navb:visited {
-    color: var(--base-600);
-  }
-
-  details {
-    border-color: var(--base-100);
-  }
-
-  summary {
-    color: var(--black);
-
-    &::after {
-      color: var(--base-150);
-    }
-
-    [open] &::after {
-      color: var(--base-200);
-    }
-  }
-
-  header {
-    background-color: var(--base-50);
   }
 }
