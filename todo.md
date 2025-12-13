@@ -1,2 +1,3 @@
-- add a "paper" look
-- make the footer (when adding rss support and sm)
+- [ ] move the header down in mobile view
+- [ ] add a "paper" look
+- [ ] make the footer (when adding rss support and sm)
