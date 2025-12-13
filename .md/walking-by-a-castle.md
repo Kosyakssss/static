@@ -1,0 +1,25 @@
+"It is interesting" — he thought.
+
+"Every time I walk by this castle, I feel it's grandiose. I hear what's happening inside. The remote laughs, the fun, the leisure. Every time I get home and sit outside, I can see it through the trees of my small garden. When I brew my coffee, I can see it through the window from afar. As I walk towards my shop, it gets bigger and bigger by the minute. It's overwhelming. When I talk to townsfolk, they all want be in that castle. They see it every day. No matter the riches they have, they all aspire to be richer still to get inside."
+
+He kept walking by the castle's wall. Dirty wet bricks shined, still wet from the rain.
+
+"Someone built it. Those weren't the people inside the castle. They aren't even the ones that commissioned it. They are not the ones that appreciate what they have. They just were born in it or got lucky enough to get in. None of the townsfolk will ever get in."
+
+The gates we incredible. They were giant, probably the height of 10 people. Yet when they opened, they opened with such ease, almost as if a god's hand was releasing the locks and pushing the massive stone doors apart. This made the people of the town feel like there is a way to get inside. That they needed to stay outside no longer. That life inside was going to be so much better.
+
+The doors started opening. There were carriages coming both in and out.
+
+He looked at the people in those carriages. They were dressed prestigiously, but not too different from the rich people of the town. He knew a good tailor who loved telling him about his craft when they drank. Sometimes it would get annoying, but at least he now had the knowledge of one of the best tailors in the region. He knew that difference between the well-off and these people were the minute details of their attire. Nothing more.
+
+Then he noticed the faces. Both incoming and outgoing wore the same expressions as the people he saw daily.
+
+"They truly are no different from the rest of us. They are just lucky to be inside. From what I've heard, it's not even that much different inside. If anything, they are confined to the space of the castle in their day-to-day lives."
+
+Just as the sun started setting he reached his house. It stood in tranquility on a his, just far enough from the castle and the town to easily reach it on foot, but not hear the sounds of the town from the garden.
+
+He caught his son and his daughter as they were running away from his wife. Seconds later she ran out from the other room. He started laughing. She was fury incarnate, holding her heavy slipper in her hand, steam coming out of her ears and the eyes were ready to kill. But seeing him changed something. He chased the kids off to bed and got wine from the cellar, she brought dinner to the table outside. They ate and talked.
+
+She knew how it was in the castle. Yet she lived here happily, in a tranquil house on a hill, venturing off to the town every morning with her husband. Neither of them dreamed of the castle life, yet both were the only ones who wore a different expression on their faces.
+
+No, they weren't lacking the dreams. They weren't lacking the riches. Quite the opposite. They just didn't dream of the castle. Seemingly, they were the only ones who knew how to dream differently.

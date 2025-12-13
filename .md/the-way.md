@@ -1,0 +1,107 @@
+The way to do this, the way to do that…
+
+He always wondered what people meant when they told him that; how he should be doing one thing to achieve another. The talks about achieving happiness brought him even more amusement.
+
+Especially now, in this hot, midday, summer sun. This sense of misunderstanding between him and the people who tell him what to do was reaching a boiling point.
+
+He got up and went home. The morning coffee mixed with the daily 2 hours he spent working and another 2 working out and swimming required him to rest. A short shower and a couple chapters of the book he was reading sent him into the midday sleep he got so used to…
+
+Waking up in such a humid town was never really nice. Another shower later he went out. A middle aged man in a jazz bar recommended a restaurant to him yesterday. He was heading there.
+
+The stuffy, humid and stupidly hot air was somehow justified by the sound of cicadas. When they weren’t there, he felt, the hotness was not justified. Their meditatively repetitive, yet slightly infuriating song accompanied him right now and he felt there was no need to think yet. 
+
+The dogs were hiding from the slowly dying sun under small cars parked on the street, cats did so in the shade of the trees. The only ones to not hide were the insects…
+
+While walking by the seaside he was called over by someone across the street. With reluctance he looked over. It was an old classmate of his. Not one of the prolific ones, but he heard that he made a small fortune in some business after moving to New York.
+
+What could he be doing here? — he thought.
+
+Still not willing to think he agreed to follow the man to a bar, as *“they have food there too man!”* made him compliant.
+
+They sat down at the bar and ordered their drinks.
+
+“Let’s go get a table!”
+
+“Yeah, why not.” 
+
+Now, as the cocktails were served and they settled at a table he was forced to think, at least about what bar food would be the least unenjoyable. 
+
+All this time his old classmate was talking about what people from their class were doing now, judging them based on their life choices. This eventually lead to him talking about his business. 
+
+He worked 10 hour days, whined about his employees needing to be managed too heavily and how he barely got any time to spend with his girlfriend. But it was all worth it since making a little over half a million dollars a year at 24 years old was worth it.
+
+Oh yeah, my wife is flying in by the end of the week — the man thought. The house renovation in Japan went well according to her and they’ll move there by winter, making it their “homebase”. The apartment here and another house in Mexico are now going to serve as getaway ones. Finally their *ideal boredom* is going to be achieved.
+
+“You still haven’t told me what you do bro. I would think you aren’t doing as bad as the others since I met you here?”
+
+He snapped out of his inner thoughts.
+
+“I don’t want to compare myself to them, it wouldn’t be fair. I got lucky and can work a little, make enough to take the wife out for dates often and slowly restore some old cars.”  
+
+“But what do you do?”
+
+“Ehhh…”
+
+He didn’t like talking about it.
+
+“…I have a management consulting company for startups that gives their founders an ability to work the same hours I work, make ten times as much as I make and have their employees happy.”
+
+He raised his eyes that were looking into the depth of the cherry-cognac negroni. His interlocutor was confused.
+
+“And how many hours is that?”
+
+“About two or three a day.”
+
+“WHAT? No way. That’s not enough time to even get the day started. No, I don’t believe you. If I wanted to spend the evening with a liar I would have invited a taxi driver for a dinner and listened to his stories about business. Explain yourself.”
+
+“It’s going to be way too boring for this type of a bar, are you sure?”
+
+Without a second to think his mate proclaimed: “Yes!”
+
+As the explanation about proper management, clever investments, reading and thinking properly started leaving his mouth his thoughts drifted back into the depth of his mind. He hasn’t seen his wife in 2 weeks; the new suspension for his 87’ BMW was already waiting for him to pick it up at the shop; his bike needed a new chain; he wanted to get a puppy…
+
+“That’s… that’s kind of it. There is nothing more to this.”  
+
+“Even so, aren’t you worried about AI taking over your job and business? You really gotta work more to be faster than it. And bro you are 24 and married already? What if there is a better option down the line…”
+
+He was slowly being reeled out of the current of his thought, like a shark caught by a dedicated fisherman.
+
+“…And bro, how are you so settled if you still have so much time in front of you; you still need to make generational wealth, make it quick and enjoy it as much as you can, you know!”
+
+“Why?”
+
+“What do you mean ‘why?’, because that’s what we do. We are business people and we have to stay on the edge, we have to be better.”
+
+Somewhere along the way he was forced to jump out of the current, above the water. He was furious that it happened.
+
+“I am better. My company is considered to be one of the most professional in the space, I make the same in a month as you make in a year and I work 2 hours a day. I read and that is what’s keeping me on edge. My employees are smart and they know what to do and how to not miss deadlines. I barely ever have to tell them anything. I have a wife because she is the one person I enjoy myself with in any condition our lives throws at us. I appreciate this life without having to prove to everyone that I do by saying that I’m better.”
+
+The waitress brought another round of drinks.
+
+Both were quiet now.
+
+“Sorry for lashing out. I didn’t mean to.”
+
+“It’s fine, don’t worry.” — he said just as someone called him.
+
+The man paid for everything and went outside, following his old mate.
+
+“Yeah… Yeah… Right, deliver it tomorrow… No no no, to another one. Yeah that one… Fine, that will do. I’m gonna call you tomorrow okay?”
+
+“Money calling?”
+
+“Yeah, different timezones, same problems. I think you are right. We landed a new client and setting them up is such a pain. How do you find the clients by the way?”
+
+“I talk to people.”
+
+“Well… I hate to admit it by I’ll probably have to call you when I get back to NY.”
+
+“Alright.”
+
+The sun was fully set now, dogs were walking by tables outside the restaurants waiting for someone to share some food with them, the lizards were enjoying the warmth of the stone buildings, the sound of the town was becoming quiet and the sound of the evening was ramping up.
+
+On the way home he took some time to swim in the sea. It was still warm, although the air was starting to cool down.
+
+Two rotations of the door lock and he was home.
+
+He went into the kitchen to pour himself a grass of water. Looking at the living room his eyes stopped by the couch. The puppy will appreciate a dog bed there — he thought.
