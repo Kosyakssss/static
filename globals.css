@@ -49,6 +49,7 @@ body {
   color: light-dark(var(--black), var(--base-200));
   max-width: 860px;
   margin: 0 auto;
+  margin-bottom: 40vh;
   padding: 0 1.5em;
 }
 
@@ -175,6 +176,7 @@ summary {
   display: flex;
   align-items: center;
   cursor: pointer;
+  user-select: none;
 
   &::after {
     content: ">";
