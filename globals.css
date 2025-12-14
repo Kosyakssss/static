@@ -110,7 +110,7 @@ h3 {
 li {
   background-color: light-dark(var(--paper), var(--black));
   color: light-dark(var(--black), var(--paper));
-  padding-bottom: 0.1em;
+  padding-bottom: 0.3em;
   padding-top: 0.1em;
 }
 
@@ -177,6 +177,7 @@ summary {
   align-items: center;
   cursor: pointer;
   user-select: none;
+  -webkit-tap-highlight-color: transparent;
 
   &::after {
     content: ">";
