@@ -1,2 +1,0 @@
-- [ ] add a "paper" look
-- [ ] make the footer (when adding rss support and sm)
