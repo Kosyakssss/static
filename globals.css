@@ -193,8 +193,6 @@ summary {
   }
 }
 
-
-
 header {
   background-color: light-dark(var(--base-50), var(--base-950));
   padding: 0.4em 1.5em;
