@@ -1,7 +1,7 @@
 :root {
   /*
-    reference: https://stephango.com/flexoki
-    */
+  reference: https://stephango.com/flexoki
+  */
 
   color-scheme: light dark;
 
@@ -53,7 +53,7 @@ body {
   padding: 0 1.5em;
 }
 
-body>* {
+body > * {
   opacity: 0;
   animation: fade-in 0.15s ease-out forwards;
   animation-delay: calc(sibling-index() * 0.04s);
@@ -144,14 +144,16 @@ details {
   border-color: light-dark(var(--base-100), var(--base-900));
 }
 
-details ol>* {
+details ol > * {
   opacity: 0;
   transform: translateY(10px);
-  transition: opacity 0.15s ease-out, transform 0.15s ease-out;
+  transition:
+    opacity 0.15s ease-out,
+    transform 0.15s ease-out;
   transition-delay: 0s;
 }
 
-details[open] ol>* {
+details[open] ol > * {
   opacity: 1;
   transform: translateY(0);
   transition-delay: calc(sibling-index() * 0.025s);
@@ -162,7 +164,7 @@ details::details-content {
 }
 
 @starting-style {
-  details[open] ol>* {
+  details[open] ol > * {
     opacity: 0;
     transform: translateY(10px);
   }
@@ -213,15 +215,15 @@ header {
   border-radius: 0;
 }
 
-header> :first-child {
+header > :first-child {
   justify-self: start;
 }
 
-header> :nth-child(2) {
+header > :nth-child(2) {
   justify-self: center;
 }
 
-header> :last-child {
+header > :last-child {
   justify-self: end;
 }
 
